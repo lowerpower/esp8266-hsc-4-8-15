@@ -11,7 +11,7 @@ The slides are also here and at http://www.slideshare.net/mycal1/esp8266-hack-so
 Presentation and code are freeware.
 
 Some Graphic objects from: 
-http://www.nodemcu.com
-http://www.esp8266.com forum
+   http://www.nodemcu.com
+   ttp://www.esp8266.com forum
 
 
