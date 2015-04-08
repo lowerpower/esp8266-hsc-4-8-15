@@ -7,6 +7,11 @@ The changes to init.lua are in the code directory.  The changes are minor, it se
 
 The slides are also here and at http://www.slideshare.net/mycal1/esp8266-hack-sonoma-county
 
+
 Presentation and code are freeware.
+
+Some Graphic objects from: 
+http://www.nodemcu.com
+http://www.esp8266.com forum
 
 
